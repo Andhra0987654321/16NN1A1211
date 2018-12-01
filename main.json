@@ -1,0 +1,54 @@
+{
+	"profile":{
+		"img":"download.jpg",
+		"name":"Reethika Reddy",
+		"ID":"16NN1A1211",
+		"Institute":"Vignan's Nirula",
+		"place":"Guntur"
+	},
+	"career":{
+		"info":"I am seeking employment with a company where I can grow professionally and personally."
+},
+	"Educational":[
+		{
+			"Degree":"B-Tech",
+			"Institution":"Vignan's Nirula",
+			"YOP":"2020"
+		},
+		{
+			"Degree":"Intermediate",
+			"Institution":"SriChaitanya",
+			"YOP":"2016"
+		},
+		{
+			"Degree":"S.S.C",
+			"Institution":"BlueBells Public School",
+			"YOP":"2014"
+		}
+	],
+	"Languages":[
+		{
+			"Lang":"Telugu"
+		},
+		{
+			"Lang":"English"
+		},
+		{
+			"Lang":"Hindhi"
+		}
+	],
+	"skills":[
+		{
+			"title":"platforms",
+			"Content":"Windows,Linux"
+		},
+		{
+			"title":"programming Languages",
+			"Content":"c,c++,html,python"
+		},
+		{
+			"title":"Databases",
+			"Content":"Oracle,mysql"
+		}
+	]
+}
